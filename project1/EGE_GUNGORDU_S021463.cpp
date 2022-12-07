@@ -95,6 +95,7 @@ public:
                 }
             }
         }
+        std::cout << "END" << std::endl;
     };
     virtual ~FA() {}
 
